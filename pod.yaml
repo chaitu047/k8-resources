@@ -8,4 +8,4 @@ spec:
   - name: webserver
     image: nginx
     ports:
-     - containerPort:80
+     - containerPort: 80
